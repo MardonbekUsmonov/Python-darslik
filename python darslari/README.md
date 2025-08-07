@@ -1,2 +1,2 @@
-# Python-darslik
-ushbu faylda pythonga oid darsliklar ro'yhati joylanadi
+# my-python
+Ushbu faylda pythonga oid darsliklar, masalalar javoblari, rasmlar va pythonga oid fayllar bor !
